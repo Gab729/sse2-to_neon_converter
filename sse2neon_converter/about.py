@@ -35,29 +35,25 @@ SSE TO NEON Converter V1.0 – Eh! -2025
 Auteur : Sparky729
 
 -----------------------------------------
-🔒 Licence GPLv3
+Licence GPLv3
 -----------------------------------------
 Ce programme est distribué sous licence GNU GPLv3.
 Vous êtes libre de l'utiliser, modifier et redistribuer,
 mais tout dérivé doit rester open-source sous GPLv3.
 
 -----------------------------------------
-📦 Dépendances utilisées
+Dépendances utilisées
 -----------------------------------------
 Ce programme utilise sse2neon (SSE → NEON)
 https://github.com/jratcliff63367/sse2neon
 
 -----------------------------------------
-💰 Adresses de donation
+Adresses de donation
 -----------------------------------------
-VerusCoin (VRSC) :
-  <TA_VRSC_ADDRESS_ICI>
-
-Dogecoin (DOGE) :
-  <TA_DOGE_ADDRESS_ICI>
-
-Ethereum (ETH) :
-  <TA_ETH_ADDRESS_ICI>
+VerusCoin (VRSC) : RDAP9XeGKMVavQ7cRNr9fqXvTimihya5Wn
+Solana (SOL) :E7tF9jgBCbJTKHvBf6v8BW9piBJPr34kBiTrUUZHydZz
+Ethereum (ETH) : 0x912b2ce60f6ce43b317f0c625aa667c81949410b
+Polygon (POL) : 0x912b2ce60f6ce43b317f0c625aa667c81949410b
 
 Merci de supporter le projet !
 """
